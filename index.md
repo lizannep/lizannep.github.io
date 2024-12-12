@@ -2,12 +2,12 @@
 title: Pan's Place
 layout: blog
 ---
-# 🌟 Welcome to Pan's Place 🌟
+🌟 Welcome to Pan's Place 🌟
 
 [专业](/professional/) | [博客随笔](/blog/) | [业余](/hobby/)
 
 This is your go-to spot for professional insights, personal musings, and creative hobbies.
-## About Pan's Place...
+About Pan's Place...
 
 Here you'll find three main areas of content:
 
