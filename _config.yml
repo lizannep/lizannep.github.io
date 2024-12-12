@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 title: Pan's Place
+=======
+title: Just the Docs Template
+>>>>>>> a7cfd85af0f324ef6d539753d03a7b256b26e295
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
@@ -6,4 +10,7 @@ url: https://lizannep.github.io
 
 aux_links:
   Linkedin: https://www.linkedin.com/in/pan-l-366164289/
+<<<<<<< HEAD
 
+=======
+>>>>>>> a7cfd85af0f324ef6d539753d03a7b256b26e295
