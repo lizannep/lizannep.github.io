@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Pan's Place
 layout: home
 ---
 
