@@ -1,8 +1,8 @@
-title: Pan's Place
-description: A starter with Pan!
-theme: Pan's Place
+title: Just the Docs Template
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
 
-url:  https://lizannep.github.io
+url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
