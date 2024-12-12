@@ -1,21 +1,7 @@
 ---
-title: Pan's Place
-layout: blog
+title: Home
+layout: home
 ---
-🌟 Welcome to Pan's Place 🌟
-
-[专业](/professional/) | [博客随笔](/blog/) | [业余](/hobby/)
-
-This is your go-to spot for professional insights, personal musings, and creative hobbies.
-About Pan's Place...
-
-Here you'll find three main areas of content:
-
-- **Professional**: Sharing insights and projects in my field of expertise.
-- **Blog Musings**: Reflecting on life, work, and everything in between.
-- **Hobbies**: Creative explorations, from art to coding.
-
-
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
