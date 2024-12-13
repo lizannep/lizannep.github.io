@@ -1,7 +1,6 @@
 ---
 title: Welcome to Pan's Place
 layout: home
-nav_order: 1
 ---
 
 # Hello, I'm Pan! 👋
