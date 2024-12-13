@@ -8,3 +8,8 @@ aux_links:
   Linkedin: https://www.linkedin.com/in/pan-l-366164289/
   GitHub: https://github.com/lizannep
   Blog: /blog/
+  
+nav_order:
+  - index
+  - about
+  - blog
