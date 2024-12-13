@@ -9,3 +9,6 @@ aux_links:
   GitHub: https://github.com/lizannep
   Blog: /blog/
   
+just_the_docs:
+  collections:
+    nav: true
