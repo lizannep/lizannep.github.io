@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "touxiang.png"
   name             : "Pan Liu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Pan is here"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Houston"
   uri              : # URL
   email            : "none@example.org" 
 
