@@ -13,4 +13,4 @@ Looking ahead, I aim to expand my research to integrate emerging technologies li
 
 For more info
 ------
-Connect me in [Linkdein](https://www.linkedin.com/in/pan-l-366164289/) or [Email](pliu28@CougarNet.UH.EDU)
+Connect me by [Linkdein](https://www.linkedin.com/in/pan-l-366164289/) or [Email](pliu28@CougarNet.UH.EDU).
