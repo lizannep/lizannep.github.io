@@ -27,7 +27,6 @@ navbar-links:
     - Pan's Sharing Notes: "https://lizannep.github.io"
   Blogs: "https://lizannep.github.io"
   Linkedin: "https://www.linkedin.com/in/pan-l-366164289/"
-  
 
 ################
 # --- Logo --- #
@@ -53,13 +52,14 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "panliu404@gmail.com"
+  email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: "lizannep.github.io"
-  bluesky: "pliu.bsky.social"
-  instagram: "liuppii"
-  google-scholar: "https://scholar.google.com/citations?user=SU5bDLIAAAAJ&hl=zh-CN"
-
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
+  patreon: DeanAttali
+  youtube: "@daattali"
+  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -95,14 +95,14 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  google-scholar: false
+  twitter: true
+  facebook: true
   linkedin: true
-  bluesky: false
+  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://lizannep.github.io"
+url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -136,18 +136,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#181818"          # 深灰色背景，增强科技感
-text-col: "#F2F2F2"          # 浅灰色文字，保持高对比度
-link-col: "#1A73E8"          # 渐变起点蓝色，作为链接颜色
-hover-col: "#6C63FF"         # 渐变终点紫色，用于悬停效果
-navbar-col: "#202020"        # 深灰色导航栏，统一背景色调
-navbar-text-col: "#EDEDED"   # 浅灰色导航栏文字，确保可读性
-navbar-border-col: "#1A73E8" # 渐变起点蓝色，用作边框点缀
-footer-col: "#202020"        # 深灰色页脚，与整体背景一致
-footer-text-col: "#EDEDED"   # 浅灰色页脚文字，视觉统一
-footer-link-col: "#00BCD4"   # 青色高亮，突出链接
-footer-hover-col: "#18FFFF"  # 青色悬停效果，与按钮高亮一致
-
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
+navbar-border-col: "#DDDDDD"
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -261,7 +260,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Houston"
+timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
