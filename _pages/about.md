@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website 
+I am a second-year PhD student in Mechanical and Aerospace Engineering at University of Houston, my research explores the intersection of material science, structural mechanics, and advanced computational modeling. While my current focus lies in understanding and optimizing the mechanical behavior of soft materials, I am passionate about leveraging these skills to tackle broader engineering challenges. My expertise in experimental techniques, multiscale modeling, and data analysis equips me to contribute to diverse fields such as robotics, biomedical devices, sustainable materials, and advanced manufacturing.
+
+Looking ahead, I aim to expand my research to integrate emerging technologies like machine learning and multiscale simulation frameworks. These tools will enable me to address complex, multidisciplinary problems—from designing adaptable structures for energy-efficient systems to developing novel materials for healthcare and environmental applications. My goal is to contribute to innovations that not only solve technical challenges but also promote sustainability and improve quality of life.
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Connect me in [Linkdein](https://www.linkedin.com/in/pan-l-366164289/) or [Email](pliu28@CougarNet.UH.EDU)
