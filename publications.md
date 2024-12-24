@@ -3,21 +3,32 @@ layout: page
 title: Publications
 ---
 
-Here is a list of my talks and presentations (including presenting work by other authors in reading groups):
+You can also browse my <a href="https://scholar.google.com/citations?user=SU5bDLIAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+<br />
 
-- **Listening to Multi-talker Conversations: Modular and End-to-end Perspectives**
-  [Slides](/static/ppt/thesis_defense.pdf){: .btn} 
-  [Video](https://www.youtube.com/watch?v=iKnCUHIgG7A){: .btn}  
-  *PhD Thesis Defense*  
-  January 26, 2024
+**2024**
+- **Digital Processing of Fabrics from Programmable Knitting (Ready to submit)**
+  Cosima du Pasquier, Sehui Jeong, **Pan Liu**, Susan Williams, Allison Okamura, Skylar Tibbits, and Tian Chen
+  *Submitted to PNAS 2024*  
+  [Paper](https://arxiv.org/abs/2409.08148){: .btn}
 
-- **Attention-based Models for ASR**
-	[Paper](https://arxiv.org/pdf/1508.01211.pdf){: .btn} 
-	[Slides](/static/ppt/attention_models_asr.pdf){: .btn}  
-	*Speech Technologies Reading Group*  
-	Barton 225, 3101 Wyman Park Dr, Baltimore  
-	March 11, 2019  
+- **Haptiknit: Distributed stiffness knitting for wearable haptics**
+  **Pan Liu**:support in collecting experimental data
+  *Submitted to Science Robotics 2024*  
+  [Paper](https://www.science.org/doi/10.1126/scirobotics.ado3887){: .btn}
 
-<br /> 
+**2023**
+- **Influence of manufacturing factors on compressive behavior of soft architected composite with a 3D-printed cellular core**
+  Zhixiong Li, **Pan Liu**, Baixi Chen, Tongtong Ye, Yuan-Fang Zhang, Nan Hu
+  *Submitted to Mechanics Research Communications 2023*  
+  [Paper](https://arxiv.org/abs/2409.08148){: .btn} 
 
+
+**2022**
+- **Jigsaw-Inspired Modular Architected Materials with Tailorable Stiffness and Programmable Reconfiguration for Adaptive Flow Regulation**
+  **Pan Liu**, Weining Mao, Yiwei Yin, Zhantu Gan, Dongdong Zhao. Nanhu
+  *Submitted to Advanced Engineering Materials 2022*  
+  [Paper](https://arxiv.org/abs/2409.08148){: .btn} 
+
+<br />  -->
 
