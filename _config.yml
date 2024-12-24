@@ -274,19 +274,13 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
-      type: "posts"
+      type: pages
     values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
-      path: "" # any file that's not a post will be a "page" layout by default
-    values:
-      layout: "page"
+      layout: home
+      permalink: /
+      title: "About Me"
 
 # Exclude these files from production site
 exclude:
