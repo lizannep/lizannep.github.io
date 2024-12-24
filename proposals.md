@@ -3,7 +3,6 @@ layout: page
 title: Proposals
 ---
 
-##一些基础生物实验相关:
 
 - **实验中的习惯养成和工具使用**  
   [Slides](/static/ppt/experimental design.pdf){: .btn}  
