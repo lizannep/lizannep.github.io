@@ -1,22 +1,23 @@
 ---
 layout: page
-title: Proposalss
+title: Proposals
 ---
 
-Here is a list of my talks and presentations (including presenting work by other authors in reading groups):
+##一些基础生物实验相关:
 
-- **Listening to Multi-talker Conversations: Modular and End-to-end Perspectives**
+- **实验中的习惯养成和工具使用**  
+  [Slides](/static/ppt/experimental design.pdf){: .btn}  
+  [Slides](/static/ppt/experiment record.pdf){: .btn}  
+
+- **ELISA，cell culture**  
   [Slides](/static/ppt/thesis_defense.pdf){: .btn} 
-  [Video](https://www.youtube.com/watch?v=iKnCUHIgG7A){: .btn}  
-  *PhD Thesis Defense*  
-  January 26, 2024
 
-- **Attention-based Models for ASR**
-	[Paper](https://arxiv.org/pdf/1508.01211.pdf){: .btn} 
-	[Slides](/static/ppt/attention_models_asr.pdf){: .btn}  
-	*Speech Technologies Reading Group*  
-	Barton 225, 3101 Wyman Park Dr, Baltimore  
-	March 11, 2019  
+- **细胞免疫荧光染色**  
+  [Paper](https://arxiv.org/pdf/1508.01211.pdf){: .btn} 
+  [Slides](/static/ppt/attention_models_asr.pdf){: .btn}  
+
+- **动物实验的基本造作**  
+  [Slides](/static/ppt/thesis_defense.pdf){: .btn} 
 
 <br /> 
 
