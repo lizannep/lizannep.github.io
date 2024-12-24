@@ -8,4 +8,4 @@ I'm a PhD student in Mechanical and Aerospace Engineering at University of Houst
 
 Looking ahead, I aim to expand my research to integrate emerging technologies like machine learning and multiscale simulation frameworks. These tools will enable me to address complex, multidisciplinary problems—from designing adaptable structures for energy-efficient systems to developing **_novel materials for healthcare and environmental applications_**. My goal is to contribute to innovations that not only solve technical challenges but also promote sustainability and improve quality of life.
 
-For more information, please connect me by [Linkedin](http://linkedin.com/in/pan-l-366164289) or [Email](pliu28@cougarnet.uh.edu).
+For more information, please connect me by [Linkedin](http://linkedin.com/in/pan-l-366164289) or [Email]("pliu28@cougarnet.uh.edu").
