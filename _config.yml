@@ -23,7 +23,7 @@ baseurl: ""
 ###############################################
 
 navbar-links:
-  Home: "/aboutme/"
+  Home: "aboutme"
   Publications: "publications"
   Resources:
     - Proposals: "proposals"
@@ -105,7 +105,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "lizannep.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -274,13 +274,20 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
-      type: pages
+      type: "posts"
     values:
-      layout: home
-      permalink: /
-      title: "About Me"
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
 
 # Exclude these files from production site
 exclude:
