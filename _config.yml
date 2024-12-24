@@ -24,11 +24,11 @@ baseurl: ""
 
 navbar-links:
   Home: "aboutme"
-  Publications: "https://lizannep.github.io"
+  Publications: "publications"
   Resources:
-    - Repositiories: "https://lizannep.github.io"
-    - Pan's Sharing Notes: "https://lizannep.github.io"
-  Blogs: "https://lizannep.github.io"
+    - Proposals: "proposals"
+    - Pan's Sharing Notes: "sharing"
+  Blogs: "blogs"
   Linkedin: "https://www.linkedin.com/in/pan-l-366164289/"
 
 ################
@@ -55,21 +55,21 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "pliu28@cougarnet.uh.edu"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+  github: "https://github.com/lizannep"
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: "http://linkedin.com/in/pan-l-366164289"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: "liuppii"
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -98,8 +98,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  github: true
+  instagram: true
   linkedin: true
   vk: false
 
