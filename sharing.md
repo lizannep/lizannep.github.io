@@ -3,20 +3,37 @@ layout: page
 title: Notes
 ---
 
-Here is a list of my notes and presentations:
+<br /> 
 
-- **Listening to Multi-talker Conversations: Modular and End-to-end Perspectives**
-  [Slides](posts/2023-08-28-interspeech-23-transducers.md){: .btn} 
-  [Video](https://www.youtube.com/watch?v=iKnCUHIgG7A){: .btn}  
-  *PhD Thesis Defense*  
-  January 26, 2024
+Here is a list of my notes about:
 
-- **Attention-based Models for ASR**
-	[Paper](https://arxiv.org/pdf/1508.01211.pdf){: .btn} 
-	[Slides](/static/ppt/attention_models_asr.pdf){: .btn}  
-	*Speech Technologies Reading Group*  
-	Barton 225, 3101 Wyman Park Dr, Baltimore  
-	March 11, 2019  
+- **Artificial Intelligence**  
+  [Reinforcement Learning](/pages/writing.md){: .btn}
+  [Deep Learning](/pages/writing.md){: .btn}
+
+- **3D打印**  
+  [常见3D打印方法](/pages/writing.md){: .btn}
+  [建模与模型网站](/pages/writing.md){: .btn}
+  [帖子](/pages/writing.md){: .btn} 
+
+- **凸优化**  
+  [math](/pages/writing.md){: .btn}
+  [algorithm](/pages/writing.md){: .btn} 
+
+- **应用数学**  
+  [ODE/PDE](/pages/writing.md){: .btn}
+  [向量运算](/pages/writing.md){: .btn}  
+
+- **连续介质力学**  
+  [Kinematics of Deformation](/pages/writing.md){: .btn}
+  [Stresses](/pages/writing.md){: .btn}
+  [Conservation Principles](/pages/writing.md){: .btn}
+  [Constitutive Relations](/pages/writing.md){: .btn}
+  [Nonlinear Elasticity](/pages/writing.md){: .btn}
+  
+- **指标写法与张量**  
+  [notes1-指标写法](/pages/writing.md){: .btn}
+  [notes2-张量公式](/pages/writing.md){: .btn}  
 
 <br /> 
 
