@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: "The best is yet to come."
+title: Hi, I am Pan
+subtitle: "Ph.D. Student at UH"
 ---
 
 I'm a PhD student in Mechanical and Aerospace Engineering at University of Houston, my research explores the intersection of **_material science_**, **_structural mechanics_**, and **_advanced computational modeling_**. While my current focus lies in understanding and optimizing the mechanical behavior of soft materials, I am passionate about leveraging these skills to tackle broader engineering challenges. My expertise in experimental techniques, multiscale modeling, and data analysis equips me to contribute to diverse fields such as robotics, biomedical devices, sustainable materials, and advanced manufacturing.
