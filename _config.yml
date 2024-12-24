@@ -23,7 +23,7 @@ baseurl: ""
 ###############################################
 
 navbar-links:
-  Home: ""
+  Home: "/aboutme/"
   Publications: "publications"
   Resources:
     - Proposals: "proposals"
