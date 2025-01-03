@@ -9,7 +9,7 @@ Here is a list of my notes about:
 
 - **基础生物实验**  
   [基础生物实验](/pages/writing.md){: .btn}  
-  [论文补充](/pages/writing.md){: .btn}  
+  [论文实验补充](/pages/writing.md){: .btn}  
 
 - **机器人学**  
   [Modern Robotics_ Mechanics, Planning, and Control Solutions](assets/pdf/Modern Robotics_ Mechanics, Planning, and Control Solutions .pdf){: .btn}   
