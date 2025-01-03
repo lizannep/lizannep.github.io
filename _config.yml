@@ -26,7 +26,7 @@ navbar-links:
   Home: "aboutme"
   Publications: "publications"
   Resources:
-    - Proposals: "proposals"
+    - Resources: "resources"
     - Pan's Sharing Notes: "sharing"
   Blogs: "blog"
   Linkedin: "https://www.linkedin.com/in/pan-l-366164289/"
