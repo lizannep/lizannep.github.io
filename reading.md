@@ -5,9 +5,9 @@ title: Reading
 
 <br />  
 
-- **python+matlab**  
+- **how to know a person**  
   [Slides](/static/ppt/experimental design.pdf){: .btn}  
-  [Slides](/static/ppt/experiment record.pdf){: .btn}  
+  [Notes](/static/ppt/experiment record.pdf){: .btn}  
 
 
 <br /> 
