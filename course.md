@@ -12,6 +12,7 @@ Here is a list of my notes about:
   [论文实验补充](/pages/writing.md){: .btn}  
 
 - **机器人学**  
+  [现代机器人学](/pages/writing.md){: .btn}
   [Modern Robotics_ Mechanics, Planning, and Control Solutions](assets/pdf/Modern Robotics_ Mechanics, Planning, and Control Solutions .pdf){: .btn}   
 
 - **Artificial Intelligence**  
